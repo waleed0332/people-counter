@@ -16,11 +16,6 @@ body{
 .container {
     text-align: center;
     margin-top: 50px;
-    background-color: black;
-    max-width: 80%;
-    margin: auto;
-    border: 3px solid black;
-    border-radius: 10px;
 }
 
 #counting {
